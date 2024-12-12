@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Warmut Store Cheapes"];
+const statusMessages = ["#HQ #WELL #CHEAP #TRUSTED #THEPRICEISCHEAP"];
 
 
 let currentIndex = 0;
